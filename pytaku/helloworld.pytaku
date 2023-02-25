@@ -1,0 +1,3 @@
+onichan baka = 5
+
+print(baka)
