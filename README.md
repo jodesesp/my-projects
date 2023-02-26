@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/usuario/repositorio/rama/ruta/al/asset
+https://raw.githubusercontent.com/jodeseps/my-projects/main/
